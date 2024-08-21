@@ -2,6 +2,5 @@
   "env": "test",
   "client_id": "",
   "client_secret": "",
-  "url": "",
-  "custom_report_name": ""
+  "base_url": ""
 }
